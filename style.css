@@ -13,3 +13,7 @@ h1{
     display: flex;
     position: relative;
 }
+.p{
+    text-align: center;
+    background: blue;
+}
