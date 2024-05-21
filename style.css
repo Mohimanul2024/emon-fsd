@@ -2,18 +2,16 @@
     height: 200px;
     width: 200px;
     background: #000;
-    display:flex;
-    position: absolute;
-    justify-content: center;
-    align-items: center;
+    
 }
 h1{
     background: red;
-    text-align: center;
-    display: flex;
-    position: relative;
+    
 }
 .p{
     text-align: center;
     background: blue;
+}
+td,th{
+    border: 2px solid black;
 }
