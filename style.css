@@ -11,6 +11,7 @@ h1{
 .p{
     text-align: center;
     background: blue;
+    color: #000;
 }
 td,th{
     border: 2px solid black;
