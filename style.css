@@ -1,26 +1,3 @@
-.a1{
-    height: 200px;
-    width: 200px;
-    background: #000;
-    
-}
 h1{
-    background: red;
-    
-}
-.p{
-    text-align: center;
-    background: blue;
-    color: #000;
-}
-td,th{
-    border: 2px solid black;
-}
-.box{
-    width: 100vw;
-    background-color: aqua;
     color: red;
-    font-size: 2em;
-    box-sizing: border-box;
-    border: 2px solid black;
 }
